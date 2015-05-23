@@ -1,0 +1,1 @@
+new options with -d postgresql (configue database with postgresql) -T (without unit test)
